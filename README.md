@@ -9,7 +9,7 @@
             -webkit-border-radius: 30px;
             -moz-border-radius: 30px;
             border-radius: 30px;
-            background: blue;
+            background: yellow;
          }
       </style>
    <head>
