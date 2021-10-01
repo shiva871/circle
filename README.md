@@ -4,11 +4,11 @@
    <head>
       <style>
          #circle {
-            width: 50px;
-            height: 50px;
-            -webkit-border-radius: 25px;
-            -moz-border-radius: 25px;
-            border-radius: 25px;
+            width: 60px;
+            height: 60px;
+            -webkit-border-radius: 30px;
+            -moz-border-radius: 30px;
+            border-radius: 30px;
             background: blue;
          }
       </style>
